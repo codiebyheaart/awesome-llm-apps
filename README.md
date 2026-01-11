@@ -232,10 +232,4 @@ A curated collection of **Awesome LLM apps built with RAG, AI Agents, Multi-agen
     ```
 
 4. **Follow the project-specific instructions** in each project's `README.md` file to set up and run the app.
-
-
-### <img src="https://cdn.simpleicons.org/github"  alt="github logo" width="25" height="20"> Thank You, Community, for the Support! 🙏
-
-[![Star History Chart](https://api.star-history.com/svg?repos=Shubhamsaboo/awesome-llm-apps&type=Date)](https://star-history.com/#Shubhamsaboo/awesome-llm-apps&Date)
-
 🌟 **Don’t miss out on future updates! Star the repo now and be the first to know about new and exciting LLM apps with RAG and AI Agents.**
